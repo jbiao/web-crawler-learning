@@ -1,0 +1,136 @@
+
+https://codeburst.io/how-to-collect-data-through-web-scraping-using-selenium-e0f7a58c863d
+[root@py37 ~]# history
+    1  python3 -V
+    2  python -V
+    3  midir pydev
+    4  mkdir pydev
+    5  cd pydev/
+    6  python3 -m venv py36-venv
+    7  source py36-venv/bin/activate
+    8  touch startup_python
+    9  vi startup_python 
+   10  python3.6 -m pip install --user pipenv
+   11  pip install --upgrade pip
+   12  mkdir -p pydev/myproject2
+   13  ls
+   14  midir myproject2
+   15  mkdir myproject2
+   16  cd myproject2/
+   17  pipenv --python 3.6
+   18  exit
+   19  python3.6 -m pip install --user pipenv
+   20  pip install --upgrade pip
+   21  pipenv --python 3.6
+   22  pip install pipenv
+   23  pip install --user --upgrade pipenv
+   24  cd
+   25  python3.6 -m pip install --user pipenv
+   26  cd pydev/myproject2/
+   27  pipenv --python 3.6
+   28  cd
+   29  cd pydev/
+   30  source py36-venv/bin/activate
+   31  cd myproject2/
+   32  python3.6 -m pip install --user pipenv
+   33  pipenv --python 3.6
+   34  exit
+   35  yum remove firefox
+   36  cd /home/james/Downloads/
+   37  ls
+   38  chmod 777 -R firefox/
+   39  pip install selenium
+   40  scl enable rh-python36 bash
+   41  getent passwd
+   42  echo "james ALL=(root) NOPASSWD:ALL" | tee -a /etc/sudoers.d/james
+   43  cd /home/james/Downloads/
+   44  ls
+   45  ls -al
+   46  chmod 777 *
+   47  ls
+   48  cd /root/Downloads/
+   49  ls
+   50  yum install google-chrome-stable_current_x86_64.rpm 
+   51  subscription-manager repos --enable rhel-7-server-optional-rpms   --enable rhel-server-rhscl-7-rpms
+   52  yum -y install @development
+   53  yum -y install rh-python37
+   54  yum -y install rh-python36
+   55  yum -y install rh-python36-numpy  rh-python36-scipy \ 
+   56  yum -y install rh-python36-numpy
+   57  yum -y install rh-python36-scipy rh-python36-python-tools rh-python36-python-six
+   58  scl enable rh-python36 bash
+   59  cd pydev/
+   60  ls
+   61  cd myproject2/
+   62  scl enable rh-python36
+   63  scl enable rh-python36 bash
+   64  cd
+   65  clear
+   66  scl enable rh-python36 bash
+   67  python3.6 -m pip install --user pipenv
+   68  cd pydev/myproject2/
+   69  pipenv --python 3.6
+   70  python3 -m pipenv
+   71  pipenv 
+   72  python3 -m pipenv | less
+   73  python3 -m pipenv | more
+   74  python3 -m pipenv 
+   75  su - james
+   76  su - james
+   77  history
+
+[james@py37 myproject2]$ history
+    1  ls
+    2  cd Downloads/
+    3  ls
+    4  pwd
+    5  ls
+    6  pwd
+    7  pip install selenium
+    8  pip install selenium --user root
+    9  pip install selenium --user 
+   10  touch selenium_web.py
+   11  vi selenium_web.py 
+   12  python selenium_web.py 
+   13  vi selenium_web.py 
+   14  python3 selenium_web.py 
+   15  vi selenium_web.py 
+   16  python3 selenium_web.py 
+   17  vi selenium_web.py 
+   18  ps -ef | grep web
+   19  ps -ef | grep driver
+   20  ps -ef | grep selenium
+   21  ps -ef | grep python
+   22  vi selenium_web.py 
+   23  python3 selenium_web.py 
+   24  vi selenium_web.py 
+   25  python3 selenium_web.py 
+   26  vi selenium_web.py 
+   27  python3 selenium_web.py 
+   28  vi selenium_web.py 
+   29  python3 selenium_web.py 
+   30  python3.6 -m pip install --user pipenv
+   31  mkdir -p ~/pydev/myproject2
+   32  cd ~/pydev/myproject2
+   33  pipenv --python 3.6
+   34  pip install selenium
+   35  sudo pip install selenium
+   36  scl enable rh-python36 bash
+   37  scl enable rh-python36 bash
+   38  ls
+   39  export DISPLAY=:11.0
+   40  vi selenium_web.py 
+   41  sudo setenforce 0
+   42  python3 selenium_web.py 
+   43  ls
+   44  vi geckodriver.log 
+   45  export DISPLAY=localhost:0.0
+   46  python3 selenium_web.py 
+   47  ls
+   48  vi selenium_web.py 
+   49  python3 selenium_web.py 
+   50  vi selenium_web.py 
+   51  python3 selenium_web.py 
+   52  vi selenium_web.py 
+   53  python3 selenium_web.py 
+   54  history
